@@ -1,6 +1,6 @@
 # Test framework example
 
-##Tools
+## Tools
 
 
 1. Java 1.8
@@ -10,7 +10,7 @@
 1. JUnit
 1. PageObject Pattern
 
-##Comments
+## Comments
 
 The project contains following components:
 
