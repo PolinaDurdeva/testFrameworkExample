@@ -30,7 +30,7 @@ Navigate to the project root and run from the terminal
 mvn test
 ```
 After tests finish please do either of the following to see the test report
-* Open target/cucumber-report/index.html in a web browser
+* Open target/cucumber-html/index.html in a web browser
 * Open target/cucumber-report.json in a text editor or similar
 
 ## Future work
